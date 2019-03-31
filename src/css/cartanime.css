@@ -1,0 +1,17 @@
+ .fadi-enter {
+    transform: scale(1);
+  }
+  
+  .fadi-enter.fadi-enter-active {
+    transform: scale(1.2);
+    transition: opacity 1000ms ease-in;
+  }
+  
+  .fadi-leave {
+    transform: scale(1.2);
+  }
+  
+  .fadi-leave.fadi-leave-active {
+    transform: scale(1);
+    transition: opacity 1000ms ease-in;
+  }

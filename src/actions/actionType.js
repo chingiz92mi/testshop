@@ -1,0 +1,5 @@
+export const ADD = 'ADD'
+export const ADDTOLIST = 'ADDTOLIST'
+export const OPENFULL = 'OPENFULL'
+export const DOUBLEADD = 'DOUBLEADD'
+export const FILTERGENDER = 'FILTERGENDER'

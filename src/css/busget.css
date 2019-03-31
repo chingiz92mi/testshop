@@ -1,0 +1,13 @@
+.busget-vidget {
+    position: absolute;
+    font-size: 12px;
+    width: 15px;
+    height: 15px;
+    background: orchid;
+    text-align: center;
+    border-radius: 50%;
+    vertical-align: sub;
+    color: white;
+    bottom: 2px;
+    right: -7px;
+}

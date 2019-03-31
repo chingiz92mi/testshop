@@ -1,0 +1,26 @@
+.header {
+    box-shadow: 0 1px 4px #e1e1e1;
+    margin-bottom: 30px;
+    
+}
+.header-wrap {
+    width: 100%;
+    max-width: 1080px;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-menu {
+    display: flex;
+    margin: 0;
+    list-style: none;
+}
+.main-menu li {
+    margin-left: 10px;
+}
+.main-menu li a {
+    color: #333;
+    font-size: 22px;
+}
